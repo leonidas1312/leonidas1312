@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ioannis D. Leonidas</h1>
-<h3 align="center">A passionate engineer blending quantum comput- ing, optimization, and AI</h3>
+<h3 align="center">A passionate engineer blending quantum computing, optimization, and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonidas1312&label=Profile%20views&color=0e75b6&style=flat" alt="leonidas1312" /> </p>
 
@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonidas1312&show_icons=true&locale=en" alt="leonidas1312" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonidas1312&" alt="leonidas1312" /></p>
